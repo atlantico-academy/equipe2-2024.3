@@ -1,6 +1,6 @@
 # SonoZem
 
-![Logo SonoZen] (/src/img/SonoZen_Logo.png)
+![Logo SonoZen] (../src/img/SonoZen_Logo.png)
 
 Este projeto tem como objetivo explorar e analisar o conjunto de dados "Sleep Efficiency Dataset", com o intuito de identificar padrões e insights que possam melhorar a qualidade do sono e, consequentemente, a saúde e bem-estar das pessoas.
 
