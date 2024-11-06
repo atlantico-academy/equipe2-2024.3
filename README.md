@@ -1,14 +1,26 @@
-# SonoZem
+<div align="center">
+    <img src="./assets/image/SonoZen_Logo.png" alt="Logo SonoZen" width="30%" >
+</div>
 
-![Logo SonoZen] (../src/img/SonoZen_Logo.png)
 
-Este projeto tem como objetivo explorar e analisar o conjunto de dados "Sleep Efficiency Dataset", com o intuito de identificar padrões e insights que possam melhorar a qualidade do sono e, consequentemente, a saúde e bem-estar das pessoas.
+# Análise da Eficiência e Padrões de Sono: Um Estudo Baseado em Dados sobre Fatores que Afetam a Qualidade do Sono
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+## Resumo
 
-## Justificativa
+<p align="justify">
+    Esse conjunto de dados <a href="https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency">Sleep Efficience</a>, disponível no site do Kaggle, registra variáveis detalhadas sobre o sono de participantes, incluindo duração total, eficiência (proporção do tempo dormindo), e distribuição entre sono REM, profundo e leve. Ele também monitora fatores comportamentais como consumo de cafeína e álcool, tabagismo e frequência de exercícios, fornecendo uma base para análises sobre a influência desses fatores na qualidade do sono.
+</p>
 
-A eficiência do sono desempenha um papel fundamental na saúde física e mental dos indivíduos. Compreender os fatores que influenciam a qualidade do sono é essencial para profissionais de saúde, pesquisadores e para o público em geral. A partir da análise dos dados, busca-se identificar correlações entre a eficiência do sono e variáveis como horas de sono, consumo de álcool, tabagismo e níveis de atividade física.
+
+## Gráfico Abstrato
+
+
+
+## Justificativa do Projeto
+
+<p align="justify">
+    A eficiência do sono desempenha um papel fundamental na saúde física e mental dos indivíduos. Compreender os fatores que influenciam a qualidade do sono é essencial para profissionais de saúde, pesquisadores e para o público em geral. A partir da análise dos dados, busca-se identificar correlações entre a eficiência do sono e variáveis como horas de sono, consumo de álcool, tabagismo e níveis de atividade física.
+</p>
 
 ## Metodologia
 
