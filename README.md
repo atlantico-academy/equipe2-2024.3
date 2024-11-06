@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/image/SonoZen_Logo.png" alt="Logo SonoZen" width="30%" >
+    <img src="./assets/image/SonoZen_Logo.png" alt="Logo SonoZen" width="50%" >
 </div>
 
 
