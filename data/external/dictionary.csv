@@ -1,0 +1,16 @@
+variavel,descricao,tipo,subtipo
+ID,Identificador único do sujeito,Quantitativo,Discreta
+Age,Idade do sujeito,Quantitativo,Discreta
+Gender,Gênero do sujeito,Qualitativo,Nominal
+Bedtime,Hora em que o sujeito vai para a cama,Cíclica,Cíclica
+Wakeup time,Hora em que o sujeito acorda,Cíclica,Cíclica
+Sleep duration,Duração total do sono em horas,Cíclica,Cíclica
+Sleep efficiency,Representa a porcentagem de tempo que o sujeito passou dormindo enquanto estava na cama,Quantitativo,Contínua
+REM sleep percentage,"Porcentagem do tempo total de sono que foi gasto no estágio REM, fase do sono associada aos sonhos",Quantitativo,Contínua
+Deep sleep percentage,"Porcentagem do tempo total de sono que foi gasto no estágio de sono profundo, fase do sono que é mais restauradora",Quantitativo,Contínua
+Light sleep percentage,"Porcentagem do tempo total de sono que foi gasto no estágio de sono leve, fase do sono mais superficial",Quantitativo,Contínua
+Awakenings,Número de vezes que o sujeito acorda durante a noite,Quantitativo,Discreta
+Caffeine consumption,"Quantidade de cafeína consumida pelo sujeito nas 24 horas anteriores à hora de dormir, registrada em miligramas",Quantitativo,Contínua
+Alcohol consumption,"Quantidade de álcool consumido pelo sujeito nas 24 horas anteriores à hora de dormir, registrada em mililitros",Quantitativo,Contínua
+Smoking status,Status de fumante do sujeito,Qualitativo,Nominal
+Exercise frequency,Frequência de exercícios físicos praticados pelo sujeito,Quantitativo,Discreta
