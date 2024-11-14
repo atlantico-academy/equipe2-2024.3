@@ -15,7 +15,7 @@
 ## Gráfico Abstrato
 
 <div align="center">
-    <img src="./assets/image/grafico_abstrato.png" alt="Graphical Abstract">
+    <img src="./assets/image/grafico_abstrato_final.png" alt="Graphical Abstract">
 </div>
 
 ## Justificativa do Projeto
