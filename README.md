@@ -18,6 +18,8 @@
     <img src="./assets/image/grafico_abstrato_final.png" alt="Graphical Abstract">
 </div>
 
+**Curioso para explorar mais sobre o projeto? Descubra todos os detalhes e insights analisando esse[notebook](https://github.com/atlantico-academy/equipe2-2024.3/blob/master/notebooks/01-exploratory_data_analysis.ipynb).**
+
 ## Justificativa do Projeto
 
 <p align="justify">
@@ -36,4 +38,54 @@ O projeto seguirá a metodologia **CRISP-DM** (Cross Industry Standard Process f
  - [Lousane Avelar](https://github.com/lousaneavelar)
  - [Halane Moreira](https://github.com/HalaneMoreira)
  - [Maria Isabel Oliveira](https://github.com/isabe1l-t)
-   
+
+### Organização de diretórios
+```
+
+├── README.md
+├── app.py
+├── assets
+│   └── image
+│       ├── SonoZen_Logo.png
+│       └── grafico_abstrato_final.png
+├── data
+│   ├── external
+│   │   └── dictionary.csv
+│   ├── processed
+│   │   └── data.csv
+│   └── raw
+│       └── Sleep_Efficiency.csv
+├── docs
+│   ├── assets
+│   │   ├── css
+│   │   │   └── tables.css
+│   │   └── js
+│   │       └── mathjax.js
+│   ├── index.md
+│   └── notebooks
+│       └── 01-exploratory_data_analysis.ipynb
+├── mkdocs.yml
+├── models
+├── notebooks
+│   ├── 00-data-dowload.ipynb
+│   ├── 01-exploratory_data_analysis.ipynb
+│   └── 02-comparative_analysis..ipynb
+├── poetry.lock
+├── pyproject.toml
+├── references
+├── requirements.txt
+└── src
+    ├── __init__.py
+    ├── data
+    │   └── __init__.py
+    ├── deployment
+    │   └── __init__.py
+    └── model
+        └── __init__.py
+```
+
+### Referências
+    * https://medium.com/@6448119929/exploratory-data-analysis-on-sleep-efficiency-dataset-baeec53edc8d
+    * https://www.scielo.br/j/rbem/a/CdHSFWD4DZ7VMcGqzSZLMRF/
+    * https://institutodosono.com/artigos-noticias/fases-de-sono-veja-quais-sao-e-entenda-a-importancia/
+    * https://github.com/atlantico-academy/equipe1-2024.2/blob/master/notebooks/01-exploratory_data_analysis.ipynb
