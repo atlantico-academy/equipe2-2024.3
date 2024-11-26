@@ -18,8 +18,11 @@
     <img src="./assets/image/grafico_abstrato_final.png" alt="Graphical Abstract">
 </div>
 
- **Curioso para explorar mais sobre o projeto? Descubra todos os detalhes e insights analisando esse [notebook](https://github.com/atlantico-academy/equipe2-2024.3/blob/master/notebooks/01-exploratory_data_analysis.ipynb).**
+<br>
 
+ - **Curioso para explorar mais sobre o projeto? Descubra todos os detalhes e insights analisando esse [notebook](https://github.com/atlantico-academy/equipe2-2024.3/blob/master/notebooks/01-exploratory_data_analysis.ipynb).**
+
+<br>
 
 ## Justificativa do Projeto
 
@@ -86,6 +89,10 @@ O projeto seguirá a metodologia **CRISP-DM** (Cross Industry Standard Process f
 ```
 
 ### Referências
+- https://seaborn.pydata.org/
+- https://matplotlib.org/
+- https://pandas.pydata.org/
+- https://numpy.org/doc/stable/user/index.html#user
 - https://medium.com/@6448119929/exploratory-data-analysis-on-sleep-efficiency-dataset-baeec53edc8d
 - https://www.scielo.br/j/rbem/a/CdHSFWD4DZ7VMcGqzSZLMRF/
 - https://institutodosono.com/artigos-noticias/fases-de-sono-veja-quais-sao-e-entenda-a-importancia/
